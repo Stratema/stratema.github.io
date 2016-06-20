@@ -1,0 +1,17 @@
+# Setup
+title:               Stratema
+tagline:             "Clojure at work"
+description:         ""
+url:                 "http://stratema.github.com"
+baseurl:             ""
+paginate:            5
+paginate_path:       "/blog/page:num/"
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Matt Taylor
+  url:               https://twitter.com/matttylr
+  email:             matt.taylor@stratema.co.uk
+
+gems:                [jekyll-paginate]
