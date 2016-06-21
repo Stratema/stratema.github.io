@@ -1,0 +1,48 @@
+Lanyon is an unassuming [[http://jekyllrb.com][Jekyll]] theme that
+places content first by tucking away navigation in a hidden drawer. It's
+based on [[http://getpoole.com][Poole]], the Jekyll butler.
+
+*** Built on Poole
+
+Poole is the Jekyll Butler, serving as an upstanding and effective
+foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole,
+and every theme built on it (like Lanyon here) includes the following:
+
+-  Complete Jekyll setup included (layouts, config, [[/404][404]],
+   [[/atom.xml][RSS feed]], posts, and [[/about][example page]])
+-  Mobile friendly design and development
+-  Easily scalable text and component sizing with =rem= units in the CSS
+-  Support for a wide gamut of HTML elements
+-  Related posts (time-based, because Jekyll) below each post
+-  Syntax highlighting, courtesy Pygments (the Python-based code snippet
+   highlighter)
+
+*** Lanyon features
+
+In addition to the features of Poole, Lanyon adds the following:
+
+-  Toggleable sliding sidebar (built with only CSS) via *☰* link in top
+   corner
+-  Sidebar includes support for textual modules and a dynamically
+   generated navigation with active link support
+-  Two orientations for content and sidebar, default (left sidebar) and
+   [[https://github.com/poole/lanyon#reverse-layout][reverse]] (right
+   sidebar), available via =<body>= classes
+-  [[https://github.com/poole/lanyon#themes][Eight optional color
+   schemes]], available via =<body>= classes
+
+[[https://github.com/poole/lanyon#readme][Head to the readme]] to learn
+more.
+
+*** Browser support
+
+Lanyon is by preference a forward-thinking project. In addition to the
+latest versions of Chrome, Safari (mobile and desktop), and Firefox, it
+is only compatible with Internet Explorer 9 and above.
+
+*** Download
+
+Lanyon is developed on and hosted with GitHub. Head to the GitHub
+repository for downloads, bug reports, and features requests.
+
+Thanks!
